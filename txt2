@@ -1,2 +1,6 @@
 branch1
+<<<<<<< HEAD
 master1
+=======
+branch-master
+>>>>>>> cff7e78 (Added branch2)
